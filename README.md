@@ -1,1 +1,2 @@
-# 205IC_A2_PP_Pliki_Naglowkowe
+# Pliki_Naglowkowe
+Calculator using structures and header files
